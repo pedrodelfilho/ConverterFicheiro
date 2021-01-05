@@ -1,6 +1,0 @@
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\Models\bin\Debug\Models.dll
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\Models\bin\Debug\Models.pdb
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\Models\obj\Debug\Models.csprojAssemblyReference.cache
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\Models\obj\Debug\Models.dll
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\Models\obj\Debug\Models.pdb

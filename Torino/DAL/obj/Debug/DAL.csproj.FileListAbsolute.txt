@@ -1,9 +1,0 @@
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\bin\Debug\DAL.dll
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\bin\Debug\DAL.pdb
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\obj\Debug\DAL.dll
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\obj\Debug\DAL.pdb
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\bin\Debug\Models.dll
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\bin\Debug\Models.pdb
-D:\Users\Pedro\Desktop\PROJETOS\Torino_WEB\Torino\DAL\obj\Debug\DAL.csproj.CopyComplete
